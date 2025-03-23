@@ -3,7 +3,7 @@
 
 ## Steps to run:
 1. extract the exe and the dll from the zip file.
-2. place the exe and the dll under `C:\\` so `C:\\Timothy-malware.exe` and `C:\\Timothy-malware.dll`
+2. place the exe and the dll under `C:\` so `C:\Timothy-malware.exe` and `C:\Timothy-malware.dll`
 3. open notepad as admin\*
 4. Run the malware.exe as admin\*
 5. And press OK on the for educational purposes popup to fully execute.
